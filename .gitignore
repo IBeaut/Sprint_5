@@ -1,0 +1,26 @@
+# Logs and DB
+*.log
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Selenium downloads
+*.crdownload
+
+# pytest cache
+.pytest_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
